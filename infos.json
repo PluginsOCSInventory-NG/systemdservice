@@ -1,0 +1,13 @@
+{
+    "displayName" : "Systemd Service",
+    "author" : ["Antoine ROBIN"],
+    "contributor" : ["Gilles DUBOIS"],
+    "supportedAgent" : ["Unix"],
+    "version" : "1.0",
+    "licence" : "GPLv2",
+    "description" : 
+        {
+            "en" : "Systemd Service",
+            "fr" : "Service Systemd"
+        }
+}
